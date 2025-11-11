@@ -10,28 +10,28 @@ import { useLocation } from "react-router-dom";
 
 const upcomingMarkets = [
     {
-      name: "Messe Cottbus",
-      date: "24. - 26. Oktober 2024",
-      time: "10:00 - 18:00 Uhr",
-      location: "Vorparkstraße 3",
-      plz: "03042 Cottbus",
-      description: "Einzigartige , Selbsthergestellte und faszinierende Produkte für die Weihnachtszeit. Lass dich von der magischen Atmosphäre verzaubern."
+      name: "Weihnachtsmarkt Ummendorf",
+      date: "29. - 30. November 2025",
+      time: "11:00 - 18:00 Uhr",
+      location: "Wormsdorferstraße 1",
+      plz: "39365 Ummendorf",
+      description: "Gemütlicher Weihnachtmarkt mit familiärer Atmosphäre."
     },
     {
-      name: "Landeserntedankfest Magdeburg",
-      date: "20. - 21. September 2025",
-      time: "10:00 - 18:00 Uhr", 
-      location: "Elbauenpark Magdeburg",
-      plz:"im Ökodorf",
-      description: "Erlebe das 29. Landeserntedankfest im malerischen Elbauenpark Magdeburg."
+      name: "Weihnachtsmarkt Tangermünde",
+      date: "5. - 7. Dezember 2025",
+      time: "Fr. 16:00 - 18:00 Uhr // Sa. 12:00 - 21:00 Uhr // So. 12:00 - 18:00 Uhr", 
+      location: "Tangermünder Altstadt",
+      plz:"Altstadtbereich",
+      description: "Weihnachtsstimmung und magische Kristalle warten auf dich"
     },
      {
-      name: "Kaiser-Otto-Fest Magdeburg",
-      date: "02. - 05. Oktober 2025",
+      name: "Egelner Burgweihnachten",
+      date: "14. Dezember 2025",
       time: "11:00 - 24:00 Uhr", 
-      location: "Domviertel Magdeburg",
-      plz:"",
-      description: "Viertägige mittelalterliche Erlebniswelt mit historischen Märkten, authentischem Handwerk, Tanz und Musik lassen wir die Zeit des Mittelalters aufleben."
+      location: "Wasserburg Egeln",
+      plz:"39435 Egeln",
+      description: "Romantische Burgweihnachten mit einer einzigartigen Atmosphäre."
     },
   ];
 
