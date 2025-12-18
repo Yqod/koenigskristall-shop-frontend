@@ -10,28 +10,28 @@ import { useLocation } from "react-router-dom";
 
 const upcomingMarkets = [
     {
-      name: "Weihnachtsmarkt Ummendorf",
-      date: "29. - 30. November 2025",
+      name: "Kreativmarkt Magdeburg",
+      date: "17. - 18. Januar 2026",
       time: "11:00 - 18:00 Uhr",
-      location: "Wormsdorferstraße 1",
-      plz: "39365 Ummendorf",
-      description: "Gemütlicher Weihnachtmarkt mit familiärer Atmosphäre."
+      location: "Messe Magdeburg",
+      plz: "Tessenowstraße 9a",
+      description: "Kunsthandwerk, Selbstgemachtes, Dekoartikel, Schmuck und vieles mehr."
     },
     {
-      name: "Weihnachtsmarkt Tangermünde",
-      date: "5. - 7. Dezember 2025",
-      time: "Fr. 16:00 - 18:00 Uhr // Sa. 12:00 - 21:00 Uhr // So. 12:00 - 18:00 Uhr", 
-      location: "Tangermünder Altstadt",
-      plz:"Altstadtbereich",
-      description: "Weihnachtsstimmung und magische Kristalle warten auf dich"
-    },
-     {
-      name: "Egelner Burgweihnachten",
-      date: "14. Dezember 2025",
-      time: "11:00 - 24:00 Uhr", 
+      name: "Mittelalterspektakel Egeln",
+      date: "28. - 29. März 2026",
+      time: "11:00 - 21:00 Uhr", 
       location: "Wasserburg Egeln",
       plz:"39435 Egeln",
-      description: "Romantische Burgweihnachten mit einer einzigartigen Atmosphäre."
+      description: "jährliches Event mit Kunsthandwerk, Händlern, Rittern und Unterhaltung, das Besucher in die Vergangenheit entführt."
+    },
+     {
+      name: "Lebensart",
+      date: "17. - 19. April 2026",
+      time: "10:00 - 18:00 Uhr", 
+      location: "Schloss Kartzow",
+      plz:"14476 Potsdam",
+      description: "Alles um das Thema Wohlfühlen & Leben."
     },
   ];
 
