@@ -23,7 +23,7 @@ const upcomingMarkets = [
       time: "11:00 - 21:00 Uhr", 
       location: "Wasserburg Egeln",
       plz:"39435 Egeln",
-      description: "jährliches Event mit Kunsthandwerk, Händlern, Rittern und Unterhaltung, das Besucher in die Vergangenheit entführt."
+      description: "jährliches Event mit Kunsthandwerk, Händlern, Rittern & Unterhaltung, das Besucher in die Vergangenheit entführt."
     },
      {
       name: "Lebensart",
