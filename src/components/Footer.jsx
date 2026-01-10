@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { Heart, Youtube, Instagram, MessageCircle, Mail, Phone, Gem } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -45,6 +44,14 @@ const Footer = () => {
             <span className="text-xs text-muted-foreground">
               Mit <span className="text-primary">♥</span> für dich gemacht.
             </span>
+            <a
+              href="https://22orbit.de/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs text-muted-foreground hover:text-primary transition"
+            >
+              22orbit.de
+            </a>
           </div>
         </div>
       </div>
